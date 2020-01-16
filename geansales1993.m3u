@@ -1,164 +1,215 @@
 #EXTM3U
 
-
-#PLAYLISTV: pltv-logo="https://scontent.fmvd4-1.fna.fbcdn.net/v/t1.0-9/s960x960/82334689_2714360378630359_3665109066436313088_o.jpg?_nc_cat=100&_nc_oc=AQkuNWnqBhFVMeA0eXLoCdfnZb8LHhIHosCxuX5qk7YhbLKCIlG0ba8cW9fPPnMD_pQ&_nc_ht=scontent.fmvd4-1.fna&_nc_tp=1&oh=98eabb3a3758bdca4d528fd6bf4cc0f2&oe=5E90469D" pltv-name="Team Iptv Canales" pltv-description="CANALES IPTV" pltv-cover="https://scontent.fmvd4-1.fna.fbcdn.net/v/t1.0-9/s960x960/82064954_2714363078630089_2618722640763813888_o.jpg?_nc_cat=107&_nc_oc=AQmM_nPZpxvtML8bNQhW85l3kexGdM4DBxOXDnyjR40lXKdmEQtuPOlkas2JCGU8UDI&_nc_ht=scontent.fmvd4-1.fna&_nc_tp=1&oh=99162d5fde8c950ee256b44b604aae10&oe=5E9845FF" pltv-author="TOP.tv"
 ######################################################################################################################################
-######################################################################################################################################
-#EXTINF:-1 tvg-logo="https://scontent.fmvd4-1.fna.fbcdn.net/v/t1.0-9/s960x960/82334689_2714360378630359_3665109066436313088_o.jpg?_nc_cat=100&_nc_oc=AQkuNWnqBhFVMeA0eXLoCdfnZb8LHhIHosCxuX5qk7YhbLKCIlG0ba8cW9fPPnMD_pQ&_nc_ht=scontent.fmvd4-1.fna&_nc_tp=1&oh=98eabb3a3758bdca4d528fd6bf4cc0f2&oe=5E90469D" group-title="01- LISTA GRATUITA",01- LISTA GRATUITA
-https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
-#####################################################################################################################################
-
-######################################################################################################################################
-#EXTINF:-1 tvg-logo="https://scontent.fmvd4-1.fna.fbcdn.net/v/t1.0-9/s960x960/82334689_2714360378630359_3665109066436313088_o.jpg?_nc_cat=100&_nc_oc=AQkuNWnqBhFVMeA0eXLoCdfnZb8LHhIHosCxuX5qk7YhbLKCIlG0ba8cW9fPPnMD_pQ&_nc_ht=scontent.fmvd4-1.fna&_nc_tp=1&oh=98eabb3a3758bdca4d528fd6bf4cc0f2&oe=5E90469D" group-title="02- Actualizada Enero",02- Actualizada Enero
-https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
-#####################################################################################################################################
-######################################################################################################################################
-####################################### ARGENTINA
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/06/16/01/20/argentina-1460299_960_720.jpg" group-title="03- ARGENTINA",03- ARGENTINA
-https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+####################################### BRASIL
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/91/18/c2/9118c23678a907c209281fb1533732ca.png" group-title="04- BRASIL",04- BRASIL
+https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
 #######################################
+######################################################################################################################################
 
-oh=99162d5fde8c950ee256b44b604aae10&oe=5E9845FF" pltv-author="TOP.tv"
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWJjYzI2NGYtMGFlYi00NWNiLWJhOTMtYzZlNWI1ZDQ4NzM5XkEyXkFqcGdeQXVyNjQ0OTk1ODg@._V1_.jpg" group-title="04- BRASIL",A Fazenda -OFF-
 
-http://51.79.79.240:80/15021979/15021979/4400 #Name: iptvtools_1
 
+#EXTINF:0 tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="04- BRASIL",Agro Brasil
 
-http://51.79.79.240:80/039456/039456/4400 #Name: iptvtools_3
 
+#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (1)
+http://51.79.79.240:80/15021979/15021979/4400
 
-http://lista.serverpower.me:80/live/019379/019379/37096.ts #Name: BAND
+#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (2)
+http://assistaiptvplay.com:80/live/valdemar12/valdemar12/75456.ts
 
+#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (3)
+http://51.79.79.240:80/039456/039456/4400
 
-https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w749538962.m3u8?GrupoTopIptv #Name: iptvtools_5
+#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (4)
+http://lista.serverpower.me:80/live/019379/019379/37096.ts
 
+#EXTINF:-1 tvg-logo="https://www.wtvision.com/wp-content/uploads/Canal-Rural-570x570.jpg" group-title="04- BRASIL",Canal Rural -OFF-
 
-http://51.79.79.240:80/15021979/15021979/22004 #Name: iptvtools_6
 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9tDte7uhQ9c/WLdNncrMpjI/AAAAAAAACws/K60NlJ0Qa4AVKeQ1JYpis_OlAheHottMACLcB/s1600/Cinemais.jpg" group-title="04- BRASIL",Cine +
+https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w749538962.m3u8?GrupoTopIptv
 
-http://51.79.79.240:80/039456/039456/22004 #Name: iptvtools_8
+#EXTINF:-1 tvg-logo="https://www.gjccorp.com.br/polopoly_fs/1.297847.1409081429!/image/image.png_gen/derivatives/fullscreen_268/image.png" group-title="04- BRASIL",Globo Anhanguera (1)
+http://51.79.79.240:80/15021979/15021979/22004
 
+#EXTINF:-1 tvg-logo="https://www.gjccorp.com.br/polopoly_fs/1.297847.1409081429!/image/image.png_gen/derivatives/fullscreen_268/image.png" group-title="04- BRASIL",Globo Anhanguera (2)
+http://assistaiptvplay.com:80/live/valdemar12/valdemar12/53964.ts
 
-http://51.79.79.240:80/15021979/15021979/7530 #Name: iptvtools_11
+#EXTINF:-1 tvg-logo="https://www.gjccorp.com.br/polopoly_fs/1.297847.1409081429!/image/image.png_gen/derivatives/fullscreen_268/image.png" group-title="04- BRASIL",Globo Anhanguera (3)
+http://51.79.79.240:80/039456/039456/22004
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-bahia-hd_m.png" group-title="04- BRASIL",Globo Bahia (1)
+http://51.79.79.240:80/15021979/15021979/33261
 
-http://51.79.79.240:80/039456/039456/7530 #Name: iptvtools_13
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-bahia-hd_m.png" group-title="04- BRASIL",Globo Bahia (3)
+http://51.79.79.240:80/039456/039456/33261
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Brasilia (1)
+http://51.79.79.240:80/15021979/15021979/7530
 
-http://lista.serverpower.me:80/live/019379/019379/30389.ts #Name: GLOBO BRASILIA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Brasilia (2)
+http://assistaiptvplay.com:80/live/valdemar12/valdemar12/53982.ts
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Brasilia (3)
+http://51.79.79.240:80/039456/039456/7530
 
-http://51.79.79.240:80/15021979/15021979/22765 #Name: iptvtools_15
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Brasilia (4)
+http://lista.serverpower.me:80/live/019379/019379/30389.ts
 
+#EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV R. Preto (1)
+http://51.79.79.240:80/15021979/15021979/22765
 
-http://51.79.79.240:80/039456/039456/22765 #Name: iptvtools_17
+#EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV R. Preto (2)
+http://assistaiptvplay.com:80/live/valdemar12/valdemar12/53981.ts
 
+#EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV R. Preto (3)
+http://51.79.79.240:80/039456/039456/22765
 
-http://51.79.79.240:80/15021979/15021979/22766 #Name: iptvtools_18
+#EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV Sao Carlos (1)
+http://51.79.79.240:80/15021979/15021979/22766
 
+#EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV Sao Carlos (2)
+http://assistaiptvplay.com:80/live/valdemar12/valdemar12/75464.ts
 
-http://51.79.79.240:80/039456/039456/22766 #Name: iptvtools_20
+#EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV Sao Carlos (3)
+http://51.79.79.240:80/039456/039456/22766
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Florianopolis (2)
+http://assistaiptvplay.com:80/live/valdemar12/valdemar12/42973.ts
 
-http://lista.serverpower.me:80/live/019379/019379/27526.ts #Name: GLOBO MINAS HD
+#EXTINF:-1 tvg-logo="http://neoturbohd.com.br/logo/globobh.png" group-title="04- BRASIL",Globo MG (1)
+http://51.79.79.240:80/15021979/15021979/10276
 
+#EXTINF:-1 tvg-logo="http://neoturbohd.com.br/logo/globobh.png" group-title="04- BRASIL",Globo MG (2)
+http://assistaiptvplay.com:80/live/valdemar12/valdemar12/53985.ts
 
-http://51.79.79.240:80/15021979/15021979/7527 #Name: iptvtools_26
+#EXTINF:-1 tvg-logo="http://neoturbohd.com.br/logo/globobh.png" group-title="04- BRASIL",Globo MG (3)
+http://51.79.79.240:80/039456/039456/10276
 
+#EXTINF:-1 tvg-logo="http://neoturbohd.com.br/logo/globobh.png" group-title="04- BRASIL",Globo MG (4)
+http://lista.serverpower.me:80/live/019379/019379/27526.ts
 
-http://51.79.79.240:80/039456/039456/7527 #Name: iptvtools_28
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globone.png" group-title="04- BRASIL",Globo Nordeste (1)
+http://51.79.79.240:80/15021979/15021979/7527
 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globone.png" group-title="04- BRASIL",Globo Nordeste (2)
+http://assistaiptvplay.com:80/live/valdemar12/valdemar12/53974.ts
 
-http://51.79.79.240:80/15021979/15021979/33265 #Name: iptvtools_29
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globone.png" group-title="04- BRASIL",Globo Nordeste (3)
+http://51.79.79.240:80/039456/039456/7527
 
+#EXTINF:-1 tvg-logo="http://evertonlopes.com.br/wp-content/uploads/2017/04/RBS_TV2.png" group-title="04- BRASIL",Globo RBS (1)
+http://51.79.79.240:80/15021979/15021979/33265
 
-http://51.79.79.240:80/039456/039456/33265 #Name: iptvtools_31
+#EXTINF:-1 tvg-logo="http://evertonlopes.com.br/wp-content/uploads/2017/04/RBS_TV2.png" group-title="04- BRASIL",Globo RBS (2)
+http://assistaiptvplay.com:80/live/valdemar12/valdemar12/53972.ts
 
+#EXTINF:-1 tvg-logo="http://evertonlopes.com.br/wp-content/uploads/2017/04/RBS_TV2.png" group-title="04- BRASIL",Globo RBS (3)
+http://51.79.79.240:80/039456/039456/33265
 
-http://51.79.79.240:80/15021979/15021979/11239 #Name: iptvtools_32
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (1)
+http://51.79.79.240:80/15021979/15021979/11239
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (2)
+http://assistaiptvplay.com:80/live/valdemar12/valdemar12/75507.ts
 
-http://51.79.79.240:80/039456/039456/11239 #Name: iptvtools_34
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (3)
+http://51.79.79.240:80/039456/039456/11239
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (4)
+http://lista.serverpower.me:80/live/019379/019379/27537.ts
 
-http://lista.serverpower.me:80/live/019379/019379/27537.ts #Name: GLOBO RJ HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (1)
+http://51.79.79.240:80/15021979/15021979/4431
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (2)
+http://assistaiptvplay.com:80/live/valdemar12/valdemar12/42962.ts
 
-http://51.79.79.240:80/15021979/15021979/4431 #Name: iptvtools_36
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (3)
+http://51.79.79.240:80/039456/039456/4431
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (4)
+http://lista.serverpower.me:80/live/019379/019379/27530.ts
 
-http://51.79.79.240:80/039456/039456/4431 #Name: iptvtools_38
+#EXTINF:-1 tvg-logo="https://www.hedex.tv/uploads/images/clip_155_1556042983_thumb.png" group-title="04- BRASIL",Itú TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/if82162.png" group-title="04- BRASIL",NBR (2)
+http://assistaiptvplay.com:80/live/valdemar12/valdemar12/81558.ts
 
-http://lista.serverpower.me:80/live/019379/019379/27530.ts #Name: GLOBO SP HD
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s128243q.png" group-title="04- BRASIL",Rede Minas
+https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://studiosol-a.akamaihd.net/uploadfile/letras/fotos/5/2/b/9/52b943caf2678a6a8cd401470782be46.jpg" group-title="04- BRASIL",Rede Pampa
+https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/playlist.m3u8?GrupoTopIptv
 
-http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?GrupoTopIptv #Name: iptvtools_40
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (1)
+http://51.79.79.240:80/15021979/15021979/4423
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (2)
+http://assistaiptvplay.com:80/live/valdemar12/valdemar12/43314.ts
 
-https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8?GrupoTopIptv #Name: iptvtools_42
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (3)
+http://51.79.79.240:80/039456/039456/4423
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (4)
+http://lista.serverpower.me:80/live/019379/019379/37704.ts
 
-https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/playlist.m3u8?GrupoTopIptv #Name: iptvtools_43
+#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV SD
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (1)
+http://51.79.79.240:80/15021979/15021979/4420
 
-http://51.79.79.240:80/15021979/15021979/4423 #Name: iptvtools_44
+#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (2)
+http://assistaiptvplay.com:80/live/valdemar12/valdemar12/43176.ts
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (3)
+http://51.79.79.240:80/039456/039456/4420
 
-http://assistaiptvplay.com:80/live/valdemar12/valdemar12/43314.ts #Name: RECORDTV SP SD (R2)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (4)
+http://lista.serverpower.me:80/live/019379/019379/37638.ts
 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="04- BRASIL",SBT Pioneira
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?GrupoTopIptv
 
-http://51.79.79.240:80/039456/039456/4423 #Name: iptvtools_46
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (1)
+http://51.79.79.240:80/15021979/15021979/4331
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (2)
+http://assistaiptvplay.com:80/live/valdemar12/valdemar12/75454.ts
 
-http://lista.serverpower.me:80/live/019379/019379/37704.ts #Name: RECORD SP HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (3)
+http://51.79.79.240:80/039456/039456/4331
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (4)
+http://lista.serverpower.me:80/live/019379/019379/37625.ts
 
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?GrupoTopIptv #Name: iptvtools_48
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10_720.sdp/chunklist_w322427533.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2F0aW9uLnR2Ym5vX3NjcmVlbl8wXzE1MDU1NzM5NzdfMDU1/screen-0.jpg?fakeurl=1&type=.jpg" group-title="04- BRASIL",TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8?GrupoTopIptv
 
-http://51.79.79.240:80/15021979/15021979/4420 #Name: iptvtools_49
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/1003228/logo_tv%20diario%20do%20sertao.png" group-title="04- BRASIL",Tv Diario do Sertao
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w1056637401.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kLWg5sp.png" group-title="04- BRASIL",TVE BA
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?GrupoTopIptv
 
-http://assistaiptvplay.com:80/live/valdemar12/valdemar12/43176.ts #Name: REDE TV SD (R4)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gQ4GDzQ.png" group-title="04- BRASIL",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/V3zjKvc.png" group-title="04- BRASIL",Tv FAAP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?GrupoTopIptv
 
-http://51.79.79.240:80/039456/039456/4420 #Name: iptvtools_51
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/981248236605362177/yOeHgUrj_400x400.jpg" group-title="04- BRASIL",Tv Metropole
+http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8?GrupoTopIptv
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5f33f7ec5deba04ed06cb0aa82bda5fa.png" group-title="04- BRASIL",TVN Brasil -OFF-
 
-http://lista.serverpower.me:80/live/019379/019379/37638.ts #Name: REDE TV  SD
 
-
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?GrupoTopIptv #Name: iptvtools_53
-
-
-http://51.79.79.240:80/15021979/15021979/4331 #Name: iptvtools_54
-
-
-http://assistaiptvplay.com:80/live/valdemar12/valdemar12/75454.ts #Name: SBT SD² (R2)
-
-
-http://51.79.79.240:80/039456/039456/4331 #Name: iptvtools_56
-
-
-http://lista.serverpower.me:80/live/019379/019379/37625.ts #Name: SBT SP HD
-
-
-http://evpp.mm.uol.com.br/ne10/ne10_720.sdp/chunklist_w322427533.m3u8?GrupoTopIptv #Name: iptvtools_58
-
-
-http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8?GrupoTopIptv #Name: iptvtools_59
-
-
-http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w1056637401.m3u8?GrupoTopIptv #Name: iptvtools_60
-
-
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?GrupoTopIptv #Name: iptvtools_62
-
-
-http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?GrupoTopIptv #Name: iptvtools_63
-
-
-http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8?GrupoTopIptv #Name: iptvtools_64
-
-
-http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8?GrupoTopIptv #Name: iptvtools_65
+#EXTINF:-1 tvg-logo="http://webtvminas.com/wp-content/uploads/2015/05/logo1.png" group-title="04- BRASIL",Web TV Minas
+http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8?GrupoTopIptv
